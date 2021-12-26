@@ -13,7 +13,7 @@ Contoh pengukuran model untuk <font color = 'red'> regresi </font>:
 7. Mean Percentage Error (MPE)
 8. R-squared
 
-Import `library numpy` yang nantinya digunakan untuk mebuat data type array
+Import `library numpy` yang nantinya digunakan untuk membuat data type array
 ```python
 import numpy as np
 ```
